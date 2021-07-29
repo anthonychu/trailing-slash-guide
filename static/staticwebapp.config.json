@@ -1,3 +1,3 @@
 {
-    "trailingSlashBehavior": "redirectWithTrailingSlash"
+    "trailingSlashBehavior": "alwaysRemoveTrailingSlash"
 }
